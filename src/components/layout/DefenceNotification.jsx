@@ -10,7 +10,7 @@ const DefenceNotification = () => {
           {notificationText.split("WhatsApp")[0]}
           WhatsApp
           <img
-            src="/src/assets/images/whatsapp1.png"
+            src="/whatsapp1.png"
             alt="WhatsApp"
             style={{
               width: "20px",
@@ -25,7 +25,7 @@ const DefenceNotification = () => {
           {notificationText.split("WhatsApp")[0]}
           WhatsApp
           <img
-            src="/src/assets/images/whatsapp1.png"
+            src="/whatsapp1.png"
             alt="WhatsApp"
             style={{
               width: "20px",
@@ -40,7 +40,7 @@ const DefenceNotification = () => {
           {notificationText.split("WhatsApp")[0]}
           WhatsApp
           <img
-            src="/src/assets/images/whatsapp1.png"
+            src="/whatsapp1.png"
             alt="WhatsApp"
             style={{
               width: "20px",
