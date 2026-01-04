@@ -1,7 +1,7 @@
 import React from "react";
 
 const DefenceNotification = () => {
-  const notificationText = `Special Discount for Defence Personnel (Army, Navy, Air Force, Coast Guard, Police, BSF, CRPF & Security Forces) on all Services & Tour Packages – Contact us via WhatsApp or Call +91 96331 28984`;
+  const notificationText = `Special Discount for Defence Personnel (Army, Navy, Air Force, Coast Guard, Police, BSF, CRPF & Security Forces) on all Services & Tour Packages – Contact us via WhatsApp or Call +91 81291 37502`;
 
   return (
     <div className="defence-notification">
